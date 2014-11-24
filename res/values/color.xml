@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#C4C4C4</color>
+	<color name="tile_blank">#969696</color>
+	<color name="tile_current">#FA7500</color>
+</resources>
